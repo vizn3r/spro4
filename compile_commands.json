@@ -1,0 +1,8 @@
+[
+    {
+        "command": "/home/vizn3r/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/atmega328p/src/main.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DF_CPU=16000000L -DPLATFORMIO=60120 -DARDUINO_AVR_ATmega328P -Isrc src/main.c",
+        "directory": "/home/vizn3r/dev/spro4/main",
+        "file": "src/main.c",
+        "output": ".pio/build/atmega328p/src/main.o"
+    }
+]
